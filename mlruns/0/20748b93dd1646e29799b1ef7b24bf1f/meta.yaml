@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/thaku/PyCharmMiscProject/mlruns/0/20748b93dd1646e29799b1ef7b24bf1f/artifacts
+end_time: 1753188288957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20748b93dd1646e29799b1ef7b24bf1f
+run_name: bouncy-sheep-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753188288811
+status: 3
+tags: []
+user_id: thaku

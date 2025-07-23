@@ -1,22 +1,19 @@
-# PyCharm files
+
 .idea/
 *.iml
 
-# Python cache
+
 __pycache__/
 *.pyc
 *.pyo
 
-# Virtual environment
 .venv/
 env/
 venv/
 
-# MLFlow tracking logs
 mlruns/
 
-# CatBoost logs
+
 catboost_info/
 
-# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
